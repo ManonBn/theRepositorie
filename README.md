@@ -2,4 +2,4 @@
 # FOLDER_NAME
 Basic boilerplate to start future projects.
 
- Un petit texte pour m'amuserrrrrrrrrrrrrr
+ Un petit texte pour m'exercer
